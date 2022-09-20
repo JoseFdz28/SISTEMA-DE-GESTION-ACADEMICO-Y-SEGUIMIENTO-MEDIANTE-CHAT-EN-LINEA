@@ -1,0 +1,13 @@
+.app-sidebar__user-avatar{
+    width: 48px;
+    padding: 6px;
+    background: #fff;
+}
+
+.ta{
+    width: 500px;
+}
+
+.app .app-sidebar, .app .app-nav, .app .app-header, .app .app-header__logo{
+    background: #030C29 !important;
+}
